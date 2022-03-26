@@ -1,0 +1,35 @@
+img{
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    cursor:pointer;
+}
+.container{
+    display: flex;
+}
+.col{
+background-color: blueviolet;
+height: 200px;
+width: 300px;
+}
+
+button{
+    margin-top: 20px;
+   width: 280px;
+   margin-left: 10px;
+   height: 20px;
+   cursor:pointer;
+}
+.text{
+    margin-top: 30px;
+    text-align: center;
+}
+.img{
+   background-color: blueviolet;
+   height: 70px;
+   width: 70px; 
+   border-radius: 50px;
+}
